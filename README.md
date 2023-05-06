@@ -1,6 +1,6 @@
 
-### 데이터 분석가를 희망하는 박윤아입니다. 
-### 저는 생약 및 의료 분야에서의 데이터 분석에 대한 관심이 많습니다! 
+안녕하세요. 데이터 분석가 박윤아입니다. 
+생약데이터와 의료데이터를 이용한 데이터 분석에 대해 관심이 많습니다. 
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pyi3316@gmail.com)](mailto:pyi3316@gmail.com)
