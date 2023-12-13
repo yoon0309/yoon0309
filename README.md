@@ -8,8 +8,12 @@
 
 ### 최근 프로젝트
 [딥러닝을 이용한 피부암 진단 원격 의료 서비스](https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning)
+
 [토마토 잎 병 분류 모델 제작](https://github.com/yoon0309/Development_of_a_classification_model_for_analyzing_tomato_leaf_diseases.git)
+
 [미국 시애틀 King County 지역 주택 판매 가격 예측 웹사이트](https://github.com/yoon0309/house_price_prediction_webapp)
+
 [뇌졸중 예측 모델 제작](https://github.com/yoon0309/Development_of_a_stroke_prediction_model.git)
+
 [다음분기 제작 게임 출시](https://github.com/yoon0309/Next_quarter_game_release.git)
 
