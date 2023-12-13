@@ -11,7 +11,7 @@
 
 최근 진행한 프로젝트
 
-[딥러닝을 이용한 피부암 진단 원격 의료 서비스](https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning)
+[딥러닝을 이용한 피부암 진단 원격 의료 서비스(데이터 분석)](https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning)
 
 [토마토 잎 병 분류 모델 제작](https://github.com/yoon0309/Development_of_a_classification_model_for_analyzing_tomato_leaf_diseases.git)
 
